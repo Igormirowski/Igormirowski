@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <div align="center">
    <h1>Hi there, I'm Igor</h1>
   <p align="center">
-    <a href="linkedin.com/in/igor-mirowski-945a0b170"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:igorpmirowski@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="linkedin.com/in/igor-mirowski-945a0b170"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target:"_blank" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:igorpmirowski@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" target:"_blank" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <p>I am currently doing 13 week coding course with <a href="https://www.getfutureproof.co.uk/">futureproof</a>. This intense course will utilise assignments, assessments, group projects and more to learn full stack development effectively.</p>
 </div>
 
