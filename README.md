@@ -19,7 +19,10 @@ Here are some ideas to get you started:
   <p align="center">
     <a href="https://www.linkedin.com/in/igor-mirowski-945a0b170/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:igorpmirowski@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <p>I am currently doing 13 week coding course with <a href="https://www.getfutureproof.co.uk/">futureproof</a>. This intense course will utilise assignments, assessments, group projects and more to learn full stack development effectively.</p>
+  <p>
+  I have completed 13 week coding course with <a href="https://www.getfutureproof.co.uk/">futureproof</a>. 
+  This intense course utilised assignments, assessments, group projects and more related to full stack development. 
+  </p>
 </div>
 
 ## Technologies
@@ -32,17 +35,12 @@ Here are some ideas to get you started:
 <!-- ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code) -->
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-
-
-
-## I am currently learning
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-
 <!-- ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) -->
 <!-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
