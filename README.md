@@ -19,10 +19,7 @@ Here are some ideas to get you started:
   <p align="center">
     <a href="https://www.linkedin.com/in/igor-mirowski-945a0b170/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:igorpmirowski@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <p>
-  I have completed 13 week coding course with <a href="https://www.getfutureproof.co.uk/">futureproof</a>. 
-  This intense course utilised assignments, assessments, group projects and more related to full stack development. 
-  </p>
+ 
 </div>
 
 ## Technologies
